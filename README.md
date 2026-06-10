@@ -4,6 +4,32 @@
 MVP. Корневая папка нужна только для координации; каждый сервис живет в своем
 репозитории.
 
+## Репозитории проекта
+
+### Frontend
+
+```text
+https://github.com/improved-sleepyhead/dataforge-ai-frontend
+```
+
+### Backend
+
+```text
+https://github.com/improved-sleepyhead/dataforge-ai-backend
+```
+
+### ML Service
+
+```text
+https://github.com/improved-sleepyhead/dataforge-ai-ml-service
+```
+
+### Deploy settings
+
+```text
+https://github.com/improved-sleepyhead/dataforge-ai-deploy
+```
+
 ## Клонирование
 
 ```bash
